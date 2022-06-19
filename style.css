@@ -1,46 +1,42 @@
-* {
-  background-color: #8FBC8F;
-  margin: 0 auto;
-  font-family: 'Open Sans', sans-serif;
-}
+  * {
+    background: black;
+    margin: 0 auto;
+    font-family: 'Open Sans', sans-serif;
+  }
 
-.minibio {
-  margin-top: 20px;
-  text-align:center;
-  color: #fff;
-}
+  .minibio {
+    margin-top: 20px;
+    text-align: center;
+    color: #FFB6C1;
+  }
 
-.minibio p {
-  width: 240px;
-  margin-bottom: 20px;
-}
+  .minibio p {
+    width: 280px;
+    margin-bottom: 20px;
+  }
 
-.miniobio h1 {
-  width: 280px;
-  margin-bottom: 12px;
-}
+  .miniobio h1 {
+    width: 280px;
+    margin-bottom: 12px;
+  }
 
-.foto {
-  width: 340px;
-  height auto;
-}
+  .foto {
+    width: 240px;
+    height auto;
+  }
 
-.rede-social {
-  width: 320px;
-}
+  .rede-social {
+    width: 320px;
+  }
 
-.botao {
-  color: #000;
-  border-radius: 40px;
-  cursor: pointer;
-  padding: 16px 25px;
-  text-align: center;
-  text-transform: uppercase;
-  background-color: #fff;
-  width: 300px; 
-  margin: 20px;
-
-
-
-}
-
+  .botao {
+    color: #000000;
+    border-radius: 20px;
+    cursor: pointer;
+    padding: 16px 25px;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: #FFB6C1;
+    width: 300px;
+    margin: 20px;
+  }
